@@ -25,7 +25,7 @@ function calcTotals(labels) {
     } else if (text.match(/^.*::([1-9]\d*|0)(\.\d+)?$/)) {
       let matches = text.match(/^(.*)::([1-9]\d*|0)(\.\d+)?$/);
       let key = matches[1];
-      let point = matches[2];
+      let point = `${matches[2]}${matches[3]}`;
       if (totals[key] === undefined) {
         totals[key] = 0;
       }
