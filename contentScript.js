@@ -14,8 +14,8 @@ function updateTotalLabel() {
     let total = 0;
     labels.forEach(label => {
       let text = label.textContent.trim();
-      if (text.match(/^\d+$/)) {
-        let point = parseInt(text);
+      if (text.match(/^([1-9]\d*|0)(\.\d+)?$/)) {
+        let point = parseFloat(text);
         total += point;
       }
     });
