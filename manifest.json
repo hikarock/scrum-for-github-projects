@@ -1,0 +1,14 @@
+{
+  "name": "Scrum for GitHub Projects",
+  "version": "1.0",
+  "description": "Inspired by Scrum for Trello.",
+  "manifest_version": 2,
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*/projects/*"],
+      "css": ["styles.css"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.total-label {
+  margin-left: 14px;
+  padding: 2px 4px;
+  font-size: 12px;
+  height: 20px;
+  background-color: #666;
+  border-radius: 2px;
+  color: #fff;
+}
