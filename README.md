@@ -12,7 +12,7 @@ Inspired by [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-f
 
 ![image](https://user-images.githubusercontent.com/236607/43138019-95a2f8cc-8f88-11e8-97ce-ec21b014dadc.png)
 
-- Put label in issues or pull requests.
+- Put a label on issues or pull requests.
 - Go to Project page.
 
 ## Install
