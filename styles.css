@@ -1,4 +1,5 @@
 .total-label {
+  display: inline-block;
   margin-left: 6px;
   padding: 2px 4px;
   font-size: 12px;
