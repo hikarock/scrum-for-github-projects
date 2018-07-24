@@ -4,5 +4,5 @@ Inspired by [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-f
 
 Displays the total number of labels in the column.
 
-![image](https://user-images.githubusercontent.com/236607/43120991-28d7bfb0-8f57-11e8-97b6-ed28182995f9.png)
+![image](https://user-images.githubusercontent.com/236607/43121385-8f3a57a8-8f58-11e8-9ff8-783005579a82.png)
 
