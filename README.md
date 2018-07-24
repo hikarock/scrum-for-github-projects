@@ -17,6 +17,6 @@ Inspired by [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-f
 
 ## Install
 
-1. Go to [Releases](https://github.com/hikarock//releases) and download the latest version.
+1. Go to [Releases](https://github.com/hikarock/scrum-for-github-projects/releases) and download the latest version.
 2. Go to Chrome extensions page (chrome://extensions/) and load the folder as an Unpacked extension.
 
