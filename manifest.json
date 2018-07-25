@@ -1,6 +1,6 @@
 {
   "name": "Scrum for GitHub Projects",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Inspired by Scrum for Trello.",
   "manifest_version": 2,
   "permissions": ["activeTab"],

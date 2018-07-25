@@ -1,6 +1,6 @@
 const totalClassName = 'total-label';
 const columnsSelector = '.project-column';
-const labelsSelector = '.labels button';
+const labelsSelector = '.project-card:not(.d-none) .labels button';
 const columnTitleSelector = '.js-project-column-name';
 
 function updateTotalLabels() {
